@@ -1,8 +1,0 @@
-# Signed-Undetected-Drivers-Self-Leak
-leaking my undetected signed drivers, Cleckzy#1337 and English Cat#1111
-JOIN SERVER FOR MORE: https://discord.gg/Zm4aHvg8
-
-
-INSTRUCTIONS:
-
-PUT ALL IN C DRIVE, IF IT SAYS FAILED IT MEANS IT WORKED, IF U CONNECTED IT TO SOURCE AND IT ISNT SHOWING INGAME MAKE SURE U RUN IT MULTIPLE TIMES.
